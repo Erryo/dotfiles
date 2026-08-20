@@ -6,6 +6,7 @@ return {
         "bash",
         "c",
         "go",
+        "java",
         "javascript",
         "jsdoc",
         "lua",
